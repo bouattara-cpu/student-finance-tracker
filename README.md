@@ -4,7 +4,7 @@ A responsive web application built with Vanilla JavaScript, HTML, and CSS to tra
 
 ## 🔗 Live Links & Resources
 - **GitHub Pages**: [https://bouattara-cpu.github.io/canvas-web-scraper/](https://bouattara-cpu.github.io/canvas-web-scraper/)
-- **Demo Video**: [Watch Demo Video](https://your-video-link-here)
+- **Demo Video**: [Watch Demo Video](https://youtu.be/idMf6f3uWG4)
 
 ---
 
